@@ -1,0 +1,18 @@
+In this E-Commerce Assignment-7
+
+I have created this in Three parts
+
+1. Backend
+2. Frontend
+3. Admin
+
+1. Backend - starts it by using command  - npm install 
+					   node .\index.js
+2. Frontend - starts it by using command - npm install 
+					   npm run dev
+3. Admin - starts it by using command 	 - npm install 
+					   npm run dev
+* In backend created model, Authorization token and API for adding and fetching data from the database.
+* In frontend feting data from mongoDB using fetch method and displaying it our UI
+* A Separate Admin Part created for adding and remove the product and also update in the database
+* Also created the cart part for calculating the items and its amount. 
